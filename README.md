@@ -14,7 +14,7 @@ To overcome roadblocks in a programming project, it's helpful for me to break th
 
 **How has your work on this project expanded your approach to designing software and developing programs?**
 
-By working on this project, I was able to learn how to design software and develop programs and it gave me a chance to apply what I learned in previous coursework to a real-life problem. I may faced challenges while working on the project, but it helped me improve my problem-solving skills and feel more confident in my abilities. By successfully finishing the project, I feel better prepared to handle future programming challenges and be able to create good quality software.
+By working on this project, I was able to learn how to design software and develop programs and it gave me a chance to apply what I learned in previous coursework to a real-life problem. I might face challenges while working on the project, but it helped me improve my problem-solving skills and feel more confident in my abilities. By successfully finishing the project, I feel better prepared to handle future programming challenges and be able to create good quality software.
 
 **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
 
