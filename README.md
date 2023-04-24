@@ -18,7 +18,7 @@ By working on this project, I was able to learn how to design software and devel
 
 **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
 
-
+Working on a programming project like this helps me evolve my approach to writing programs that are maintainable, readable and adaptable. Throughout the project, I have learned about best practices in coding, such as the importance of using clear and concise naming conventions, adding in-line comments to enhance code readability, and organizing code to be easy to understand and modify. I also learned about techniques for testing and debugging code to ensure its quality and reliability. By applying these best practices to my work on the project, I think it helped me have a better understanding of how to write programs that are maintainable, readable, and adaptable. I can apply this knowledge to future programming projects and improve the quality of the software I produce. 
 
 
 
