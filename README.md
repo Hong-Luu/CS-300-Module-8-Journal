@@ -10,6 +10,15 @@ To write the course planner software, the first step is I did was design the cod
 
 **How did you overcome any roadblocks you encountered while going through the activities or project?**
 
+To overcome roadblocks in a programming project, it's helpful for me to break the problem into smaller parts, understand the project requirements, and seek help from others or online resources. I think it is important to remain patient and positive, even if the task seems challenging such as when I was facing errors while running the program. By staying focused and willing to learn, I think there is a chance to overcome obstacles and complete the project successfully. I tried to remember that programming can be difficult at times, but with persistence and a good attitude, I can find a solution to the problem. 
+
+**How has your work on this project expanded your approach to designing software and developing programs?**
+
+By working on this project, I was able to learn how to design software and develop programs and it gave me a chance to apply what I learned in previous coursework to a real-life problem. I may faced challenges while working on the project, but it helped me improve my problem-solving skills and feel more confident in my abilities. By successfully finishing the project, I feel better prepared to handle future programming challenges and be able to create good quality software.
+
+**How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
+
+
 
 
 
